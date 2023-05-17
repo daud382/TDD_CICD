@@ -12,11 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TDDCICD"
         tools:targetApi="31">
-        <activity android:name=".MainActivity">
-        </activity>
-        <activity android:name=".home.HomeActivity" />
-
-        <activity android:name=".login.LoginActivity"
+        <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
