@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435596655590",
+    "project_id": "telenor-cicd",
+    "storage_bucket": "telenor-cicd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435596655590:android:dcef15aa27452a2c627427",
+        "android_client_info": {
+          "package_name": "com.example.tddcicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435596655590-uhm6i3c0pq10vkfnt5qle3hc1aapi5m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAruWxomeOYCbYj_RQR1jjC_rqX_2IVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435596655590-uhm6i3c0pq10vkfnt5qle3hc1aapi5m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
