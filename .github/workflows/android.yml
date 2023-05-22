@@ -29,8 +29,5 @@ jobs:
         serviceCredentialsFileContent: ${{ secrets.CREDENTIAL_FILE_CONTENT }}
         groups: testers
         file: app/build/outputs/apk/release/app-release-unsigned.apk
-
-#     - name: Grant execute permission for gradlew
-#       run: chmod +x gradlew
-#     - name: Build with Gradle
-#       run: ./gradlew build
+      
+      
