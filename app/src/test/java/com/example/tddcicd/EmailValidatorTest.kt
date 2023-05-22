@@ -9,6 +9,7 @@ internal class EmailValidatorTest{
     @Test
     public fun emailValidator_CorrectEmailSimple_ReturnsTrue() {
         assertTrue(EmailValidator.isValidEmail("name@abc.com"))
+
     }
 
     @Test
